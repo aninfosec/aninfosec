@@ -1,5 +1,5 @@
 # 💫 About Me:
-Security Researcher.
+Security Researcher
 
 
 ## 🌐 Socials:
